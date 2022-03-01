@@ -1,0 +1,20 @@
+.Navbar{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+    background-color: #282c34;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+
+}
+
+.Navicon{
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-right: 5%;
+    width: 5%;
+}
